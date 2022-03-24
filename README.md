@@ -17,6 +17,8 @@ Google fonts
 Google Icons
 Flaticon
 
+![image](https://user-images.githubusercontent.com/95957405/158535400-27a6ca70-40bd-4a1e-a2a3-abb08cdfecd3.png)
+
 ## Functionalities Added
 Responsiveness in landing page
 Implemented search functionalities in landing page
