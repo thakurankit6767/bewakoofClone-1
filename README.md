@@ -18,8 +18,12 @@ Google Icons
 Flaticon
 
 ![image](https://user-images.githubusercontent.com/95957405/158535400-27a6ca70-40bd-4a1e-a2a3-abb08cdfecd3.png)
-![Screenshot (1187)](https://user-images.g![Screenshot (1188)](https://user-images.githubusercontent.com/95959359/159858490-1e0b2086-279a-493c-ab27-0d4f19b7b2c5.png)
-![Screenshot (1189)](https://user-images.githubusercontent.com/95959359/159858509-416b398f-3511-41d3-b455-893f47d93452.png)
+![Screenshot (1201)](https://user-images.githubusercontent.com/95959359/159858956-4ceba795-51a4-4218-aa92-f6f5d447e3ee.png)
+![Screenshot (1184)](https://user-images.githubusercontent.com/95959359/159858995-a7375df3-63a4-44ee-aba2-ad6c85137c61.png)
+![Screenshot (1185)](https://user-images.githubusercontent.com/95959359/159859006-9e2e6cb9-b37f-4662-b142-5a1769606ac7.png)
+![Screenshot (1187)](https://user-images.githubusercontent.com/95959359/159859064-da47c906-accd-40f6-98ac-32bae3156214.png)
+![Screenshot (1188)](https://user-images.githubusercontent.com/95959359/159859075-ac2c6bf6-a816-402a-8075-389517993561.png)
+![Screenshot (1189)](https://user-images.githubusercontent.com/95959359/159859093-40b07e16-b506-458a-a15f-95695a692e4d.png)
 
 
 ## Functionalities Added
