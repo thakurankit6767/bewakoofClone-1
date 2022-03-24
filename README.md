@@ -33,9 +33,9 @@ Implemented all the above said functionalities using Databases, and enhanced dyn
 ## Team Members
 <ul>
   <li>Magendran</li>
-  <li>Kalyani Sahu</li>
-  <li>Mohit</li>
   <li>Ankit</li>
+  <li>Mohit</li>
+  <li>Kalyani Sahu</li>
   <li>Saurabh</li>
 </ul>
 
