@@ -17,6 +17,9 @@ Google fonts
 Google Icons
 Flaticon
 
+##OTP for website clone
+9427
+
 ![image](https://user-images.githubusercontent.com/95957405/158535400-27a6ca70-40bd-4a1e-a2a3-abb08cdfecd3.png)
 ![Screenshot (1201)](https://user-images.githubusercontent.com/95959359/159858956-4ceba795-51a4-4218-aa92-f6f5d447e3ee.png)
 ![Screenshot (1184)](https://user-images.githubusercontent.com/95959359/159858995-a7375df3-63a4-44ee-aba2-ad6c85137c61.png)
